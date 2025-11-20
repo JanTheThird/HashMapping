@@ -1,0 +1,18 @@
+.Header {
+    background-color: #0A3161;
+    margin-left: 50px;
+    margin-right: 50px;
+}
+
+.Header h1{
+    color: white;
+    text-align: center;
+}
+
+body {
+    background-color: #f9f9f9;
+}
+
+.map{
+    text-align: center;
+}
